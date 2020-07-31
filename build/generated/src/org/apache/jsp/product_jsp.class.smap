@@ -1,0 +1,19 @@
+SMAP
+product_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+Fragments/header.jsp
++ 1 product.jsp
+product.jsp
++ 2 footer.jsp
+Fragments/footer.jsp
+*L
+1,74:50
+75:124,3
+76,53:127
+1#1,451:179
+1#2,84:629
+451#1:713
+*E
